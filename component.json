@@ -1,0 +1,29 @@
+{
+  "name": "d",
+  "version": "0.1.1",
+  "description": "Property descriptor factory",
+  "author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
+  "keywords": [
+    "descriptor",
+    "es",
+    "ecmascript",
+    "ecma",
+    "property",
+    "descriptors",
+    "meta",
+    "properties"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/anyroadcom/d.git"
+  },
+  "dependencies": {
+    "anyroadcom/es5-ext": "~0.10.5"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "lazy.js",
+    "auto-bind.js"
+  ]
+}
